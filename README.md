@@ -12,3 +12,14 @@ dotnet ef database update
 
 Then run from visual studio to get the beautiful SwaggerUi
 
+
+## Test
+  
+RentalCarService.api tested with RentalCarsService.test easiet way to test is with this command: 
+
+```
+dotnet test
+```
+
+
+
